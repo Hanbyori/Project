@@ -10,4 +10,7 @@ longlong | 64비트 정수(컴파일러에 따라 상이)
 char16_t | 16비트 문자
 char32_t | 32비트 문자
 auto | 컴파일러가 자동으로 형식을 규정하는 자료형
-decltype(expr) | expr과 동일한 
+decltype(expr) | expr과 동일한 자료형
+
+2. auto
+[link](URL)

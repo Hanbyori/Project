@@ -3,6 +3,7 @@
 
 **자료형**
 1. C++11 표준 새로운 자료형
-|자료형|설명|
-|-----||-----|
-|테스트1|테스트2|
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column

@@ -1,7 +1,7 @@
 # 이것이 C++이다
 ## 강의 현장을 그대로 옮긴 C++ 입문서
 
-<br/><br/>
+<br/>
 
 **자료형**
 
@@ -17,7 +17,7 @@ decltype(expr) | expr과 동일한 자료형
 
 + auto [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Auto.cpp)
 
-<br/><br/>
+<br/>
 
 **메모리 동적 할당**
 

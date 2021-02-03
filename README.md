@@ -22,5 +22,4 @@ decltype(expr) | expr과 동일한 자료형
 **메모리 동적 할당**
 
 + new와 delete 연산자 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/NewDelete.cpp)
-
 + 배열 형태의 객체 생성 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/NewDeleteArray.cpp)

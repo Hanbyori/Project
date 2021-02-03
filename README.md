@@ -23,4 +23,5 @@ decltype(expr) | expr과 동일한 자료형
 
 + new와 delete 연산자
 new와 delete는 C++에서 객체를 동적 할당하고 해제하는 '연산자'입니다.
+
 단일 인스턴스라면 다음과 같은 형태로 사용합니다.

@@ -1,4 +1,4 @@
-`!(markdown_logo)(https://image.aladin.co.kr/product/7472/57/cover500/8968482462_1.jpg)`
+!(initiall)(https://image.aladin.co.kr/product/7472/57/cover500/8968482462_1.jpg)
 
 # 이것이 C++이다
 ## 강의 현장을 그대로 옮긴 C++ 입문서

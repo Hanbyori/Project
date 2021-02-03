@@ -1,4 +1,4 @@
-#include "main.h"
+#include "header.h"
 
 int TestFunc(int nParam)
 {

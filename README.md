@@ -11,6 +11,7 @@ char16_t | 16비트 문자
 char32_t | 32비트 문자
 auto | 컴파일러가 자동으로 형식을 규정하는 자료형
 decltype(expr) | expr과 동일한 자료형
-+ auto [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Auto.cpp)+
++ auto [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Auto.cpp)
 <br/><br/>
+
 **메모리 동적 할당**

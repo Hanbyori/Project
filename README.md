@@ -44,3 +44,7 @@ decltype(expr) | expr과 동일한 자료형
 * 4번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q4.cpp)
 * 5번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q5.cpp)
 * 6번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q6.cpp)
+
+<br/><br/>
+## Chapter02 C++ 함수와 네임스페이스
+**디폴트 매개변수**

@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/20338405/106761954-b0029500-6678-11eb-93e0-067424eee8bb.jpg)
 # 이것이 C++이다 프로젝트
-## C++11 공부용 
 
 <br/><br/>
 ## Chapter01 C와는 다른 C++

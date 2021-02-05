@@ -39,14 +39,14 @@ decltype(expr) | expr과 동일한 자료형
 <br/><br/>
 
 **범위 기반 for문**
-* 반복 횟수 자동 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/RangeBasedfor.cpp
+* 반복 횟수 자동 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/RangeBasedfor.cpp)
 
 <br/><br/>
 
 **1부 연습문제**
-* 1번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q1.cpp
-* 2번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q2.cpp
-* 3번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q3.cpp
-* 4번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q4.cpp
-* 5번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q5.cpp
-* 6번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q6.cpp
+* 1번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q1.cpp)
+* 2번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q2.cpp)
+* 3번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q3.cpp)
+* 4번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q4.cpp)
+* 5번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q5.cpp)
+* 6번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Sample/Chapter1_Q6.cpp)

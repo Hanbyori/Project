@@ -48,5 +48,5 @@ decltype(expr) | expr과 동일한 자료형
 <br/><br/>
 ## Chapter02 C++ 함수와 네임스페이스
 **디폴트 매개변수**
-* 디폴트 매개변수 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/DefaultParam.cpp)
-* 매개변수가 두 개일 때의 디폴트 값 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/DefaultParam2.cpp)
+* 디폴트 매개변수 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/DefaultParam.cpp)
+* 매개변수가 두 개일 때의 디폴트 값 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/DefaultParam2.cpp)

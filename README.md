@@ -57,3 +57,14 @@ decltype(expr) | expr과 동일한 자료형
 * 다중 정의와 모호성 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/FuncAmbiguity.cpp)
 * 함수 템플릿 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/FuncTemplate1.cpp)
 * 함수 템플릿으로 만든 Add() 함수 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/FuncTemplate2.cpp)
+
+<br/><br/>
+**인라인 함수**
+* 인라인 함수 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/InlineSample.cpp)
+
+<br/><br/>
+**네임스페이스**
+* 네임스페이스 선언 및 정의 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespaceSample.cpp)
+* using 선언 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespaceUsing.cpp)
+* 네임스페이스의 중첩 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespcaeNested.cpp)
+* 네임스페이스와 다중 정의 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespaceOver.cpp)

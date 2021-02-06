@@ -1,4 +1,4 @@
-#include "main.h"
+#include "header.h"
 
 // 전역(개념상 무소속)
 void TestFunc(void) { cout << "::TestFunc()" << endl; }

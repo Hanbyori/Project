@@ -50,3 +50,8 @@ decltype(expr) | expr과 동일한 자료형
 **디폴트 매개변수**
 * 디폴트 매개변수 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/DefaultParam.cpp)
 * 매개변수가 두 개일 때의 디폴트 값 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/DefaultParam2.cpp)
+
+<br/><br/>
+**함수 다중 정의**
+* 다중 정의 일반 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/FuncPloy.cpp)
+* 다중 정의와 모호성 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/FuncAmbiguity.cpp)

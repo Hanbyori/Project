@@ -76,3 +76,11 @@ decltype(expr) | expr과 동일한 자료형
 * 네임스페이스와 전역 변수의 검색 우선권 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq3.cpp)
 * using 선언과 전역 번수 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq4.cpp)
 * 네임스페이스에 using 선언 추가 후 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq5.cpp)
+
+**2부 연습문제**
+* 1번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Chapter2_Q1.cpp)
+* 2번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Chapter2_Q2.cpp)
+* 3번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Chapter2_Q3.cpp)
+* 4번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Chapter2_Q4.cpp)
+* 5번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Chapter2_Q5.cpp)
+* 6번 문제 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Chapter2_Q6.cpp)

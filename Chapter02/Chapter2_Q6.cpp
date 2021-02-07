@@ -1,4 +1,4 @@
-#include "main.h"
+#include "header.h"
 
 // 다음 코드의 실행 결과를 작성하세요.
 int nData = 200;

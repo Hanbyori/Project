@@ -68,3 +68,11 @@ decltype(expr) | expr과 동일한 자료형
 * using 선언 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespaceUsing.cpp)
 * 네임스페이스의 중첩 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespcaeNested.cpp)
 * 네임스페이스와 다중 정의 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/NamespaceOver.cpp)
+
+<br/><br/>
+**식별자 검색 순서**
+* 현재 블록 범위 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq1.cpp)
+* 상위 블록 범위 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq2.cpp)
+* 네임스페이스와 전역 변수의 검색 우선권 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq3.cpp)
+* using 선언과 전역 번수 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq4.cpp)
+* 네임스페이스에 using 선언 추가 후 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter02/IdSearchSeq5.cpp)

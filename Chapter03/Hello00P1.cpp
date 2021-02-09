@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "header.h"
 
 // 제작자의 코드
 typedef struct USERDATA

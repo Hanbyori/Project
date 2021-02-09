@@ -1,4 +1,4 @@
-#include "main.h"
+#include "header.h"
 
 // 제작자 코드
 class CMyData

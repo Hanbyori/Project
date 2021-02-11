@@ -5,7 +5,7 @@
 ## Chapter01 C와는 다른 C++
 **자료형**
 
-+ C++11 표준 새로운 자료형
+* C++11 표준 새로운 자료형
 
 자료형 | 설명
 ------------ | -------------
@@ -15,22 +15,22 @@ char32_t | 32비트 문자
 auto | 컴파일러가 자동으로 형식을 규정하는 자료형
 decltype(expr) | expr과 동일한 자료형
 
-+ auto [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Auto.cpp)
+* auto [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Auto.cpp)
 
 <br/><br/>
 **메모리 동적 할당**
 
-+ new와 delete 연산자 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/NewDelete.cpp)
-+ 배열 형태의 객체 생성 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/NewDeleteArray.cpp)
+* new와 delete 연산자 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/NewDelete.cpp)
+* 배열 형태의 객체 생성 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/NewDeleteArray.cpp)
 
 <br/><br/>
 **참조자 형식**
-+ 참조형 변수 선언과 정의 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/ReferenceType.cpp)
-+ 참조 전달 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/ReferenceSwap.cpp)
+* 참조형 변수 선언과 정의 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/ReferenceType.cpp)
+* 참조 전달 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/ReferenceSwap.cpp)
 
 <br/><br/>
 **r-value 참조**
-+ r-value 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Rvalue.cpp)
+* r-value 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter01/Rvalue.cpp)
 
 <br/><br/>
 **범위 기반 for문**
@@ -116,13 +116,31 @@ decltype(expr) | expr과 동일한 자료형
 
 <br/><br/>
 **참조 형식 멤버 초기화**
-* 참조자 선언을 위한 생성자 초기화 목록 이용[source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/RefSample.cpp)
+* 참조자 선언을 위한 생성자 초기화 목록 이용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/RefSample.cpp)
 
 <br/><br/>
 **생성자 다중 정의**
-* 생성자 다중 정의 사용[source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ConstructorOver1.cpp)
-* 다른 생성자를 추가로 부르는 생성자 초기화 함수[source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ConstructorOver2.cpp)
+* 생성자 다중 정의 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ConstructorOver1.cpp)
+* 다른 생성자를 추가로 부르는 생성자 초기화 함수 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ConstructorOver2.cpp)
 
 <br/><br/>
 **명시적 디폴트 생성자**
-* 디폴트 생성자의 정의를 클래스 외부로 분리[source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ExpDefaultConstructor.cpp)
+* 디폴트 생성자의 정의를 클래스 외부로 분리 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ExpDefaultConstructor.cpp)
+
+<br/><br/>
+**메서드**
+* 메서드의 종류와 특징
+
+종류 | 일반 | 상수화 | 정적 | 가상
+-- |
+관련 예약어 | - | const | Static | virtual
+this 포인터 접근 | 가능 | 가능 | 불가능 | 가능
+일반 멤버 읽기 | 가능 | 가능 | 가능(제한적) | 가능
+일반 멤버 쓰기 | 가능 | 불가능 | 가능(제한적) | 가능
+정적 멤버 읽기 | 가능 | 가능 | 가능 | 가능
+정적 멤버 쓰기 | 가능 | 불가능 | 가능 | 가능
+특징 | 가장 보편적인 메서드 | 멤버 쓰기 방지가 목적 | C의 전역 함수와 유사 | 상속 관계에서 의미가 큼
+
+<br/><br/>
+**this 포인터**
+* this 포인터 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ThisPointer.cpp)

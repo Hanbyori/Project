@@ -144,3 +144,7 @@ this 포인터 접근 | 가능 | 가능 | 불가능 | 가능
 <br/><br/>
 **this 포인터**
 * this 포인터 사용 [source file](https://github.com/Hanbyori/Project/blob/main/Chapter03/ThisPointer.cpp)
+
+<br/><br/>
+**실습 과제 1**
+* 프로젝트 생성 및 초기 코드 작성 [source code](https://github.com/Hanbyori/Project/blob/main/Chapter03/MyString.cpp), [header file](https://github.com/Hanbyori/Project/blob/main/Chapter03/MyString.h), [main source](https://github.com/Hanbyori/Project/blob/main/Chapter03/StringCtrlSample.cpp)
